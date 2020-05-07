@@ -1,0 +1,20 @@
+html, body{
+
+    margin: 0px;
+    background: #2F4F30;
+}
+
+.titulo{
+    background: black;
+    color:white;
+    text-align: center;
+    font-size: 50px;
+}
+
+#cartas{
+    position: relative;
+    width: 100px;
+    left: 100px;
+    margin-left:-45px;
+}
+
